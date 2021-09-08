@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "<INSERT_YOUR_PROJECT_ID>",
+    "prod": "<INSERT_YOUR_PROJECT_ID>"
+  }
+}
